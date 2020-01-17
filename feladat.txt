@@ -1,0 +1,7 @@
+lista
+felvétel
+torles
+modositas
+kapcsolo
+full update
+a formmal egyutt kuldi vissza abeágyazott tartalmat. végrehajtodik az ajax kérés
